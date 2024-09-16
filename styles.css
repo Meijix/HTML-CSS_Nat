@@ -8,3 +8,20 @@ h2{
     text-align: center;
     
 }
+
+p{
+    color: rgb(23, 23, 118);
+    font-size: 15px;
+    border: 2px solid rgb(83, 222, 230);
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+.Elemento-diferente{
+    color: rgb(209, 25, 56);
+    font-size: 18px;
+    font-weight: bold;
+}
