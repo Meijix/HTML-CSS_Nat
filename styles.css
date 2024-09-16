@@ -32,3 +32,17 @@ p{
     font-size: 18px;
     font-weight: bold;
 }
+
+input{
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 2px solid rgb(118, 151, 36);
+
+}
+
+label{
+    font: tahoma;
+    color:darkcyan;
+    font-style: italic;
+}
