@@ -5,17 +5,46 @@ body{
 }
 
 .card{
-    background: rgb(141, 207, 236);
     text-align: center;
     border-radius: 10px;
     width: 400px;
     margin: auto;
     margin-top: 50px;
     padding: 20px 10px;
-    box-shadow: 0 0 35px 0 #1e224b; 
+    box-shadow: 0 0 25px 0 #000000; 
+}
+
+.red-card{
+    background: linear-gradient(#000000, #d84242)
+}
+
+.blue-card{
+    background: linear-gradient(#000000, #242a92);
+}
+
+.green-card{
+    background: linear-gradient(#000000, #287346);
 }
 
 .card_title{
     font-size: 22px;
     margin: 0;
+}
+
+.card_subtitle{
+    font-size: 16px;
+    margin: 0;
+}
+
+.card_content{
+    font-size: 12px;
+    margin-top: 20px;
+
+}
+
+.card_img{
+    width: 100px;
+    border-radius: 80%;
+    margin-bottom: 10px;
+    
 }
