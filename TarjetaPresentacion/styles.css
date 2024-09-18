@@ -1,0 +1,21 @@
+body{
+    background-color: beige;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+
+.card{
+    background: rgb(141, 207, 236);
+    text-align: center;
+    border-radius: 10px;
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px 10px;
+    box-shadow: 0 0 35px 0 #1e224b; 
+}
+
+.card_title{
+    font-size: 22px;
+    margin: 0;
+}
